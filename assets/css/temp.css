@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    color: #4c4c4c;
+    background: #F8F8F8;
+}
+
+.header {
+    display: block;
+    margin-bottom: 50px;
+    overflow: hidden;
+    background: white;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0 0 20px;
+    padding: 50px;
+    background: #55cca0;
+    color: white;
+    font-size: 55px;
+    font-weight: 300;
+
+}
+
+.header_Nav {
+    padding-bottom: 20px;
+}
+
+.header_Nav a {
+    margin: 0 7px;
+    padding-bottom: 3px;
+    color: #333;
+    font-size: 15px;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+.header_Nav a:hover {
+    color: #55cca0;
+    border-bottom: 1px solid #55cca0;
+}
+
+.mainContainer {
+    display: block;
+    width: 1000px;
+    margin: auto;
+}
+
+.article {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 40px;
+    background: white;
+}
+
+.article-text {
+    padding: 30px;
+}
+
+.article-text h2 {
+    margin: 0 0 10px;
+    font-size: 27px;
+    color: #666666;
+}
+
+.article-text p {
+    color: #666666;
+}
+
+.articleExpand {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #4FCCA5;
+    display: inline-block;
+    font-size: 13px;
+    color: #4FCCA5;
+    text-decoration: none;
+}
+
+.articleExpand:hover {
+    background: #4FCCA5;
+    color: white;
+}
+
+.slider {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.slide {
+    position: relative;
+}
+
+.slider img {
+    float: left;
+}
+
+.Slide_Info {
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    width: 100%;
+}
+
+.Slide_Info h4 {
+    font-size: 24px;
+    margin: 0;
+    color: white;
+}
+
+.Slide_Info span {
+    padding: 7px 10px;
+    background: #413D3B;
+}
+
+.Slide_Info p {
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+    background: #413D3B;
+    font-size: 12px;
+    color: white;
+}
+
+.articleGallery {
+    display: block;
+    overflow: hidden;
+    margin: 30px 0;
+}
+
+.articleGallery a {
+    float: left;
+    width: 33.3%;
+    background: #333;
+}
+
+.articleGallery a:hover img {
+    opacity: 0.3;
+}
+
+.articleGallery img {
+    width: 100%;
+    float: left;
+}
+
+.footer {
+    display: block;
+    overflow: hidden;
+    margin-top: 50px;
+    padding: 30px;
+    background: #F1F1F1;
+}
+
+.footer a, .footer span, .footer p {
+    font-size: 13px;
+    color: #333333;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer-inner {
+    width: 1000px;
+    margin: auto;
+}
+
+.left {
+    float: left;
+}
+
+.footer .left {
+    width: 25%;
+}
+
+.footer h5 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+input[type="email"] {
+    margin: 0;
+    padding: 0;
+    border: none;
+    line-height: 30px;
+    width: 70% !important;
+}
+
+input[type="submit"] {
+    margin: 0;
+    padding: 0;
+    border: none;
+    line-height: 30px;
+    width: 25% !important;
+}

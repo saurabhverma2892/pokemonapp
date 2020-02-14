@@ -1,0 +1,20 @@
+{
+	"pokemons":[
+		{
+			"_id": "5d0bce9eae765b0008bd5796",
+			"dexId": 7,
+			"name": "nijaturtle",
+			"type1": "water",
+			"generation": 1,
+			"__v": 0
+		},
+		{
+			"_id": "5d0bce9eae765b0008bd5797",
+			"dexId": 7,
+			"name": "squirtle",
+			"type1": "water",
+			"generation": 1,
+			"__v": 0
+		}
+	]
+}

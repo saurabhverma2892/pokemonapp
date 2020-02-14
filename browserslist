@@ -1,0 +1,8 @@
+# Used by grunt-autoprefixer
+
+last 2 versions
+iOS >= 7
+Android >= 4.2.2
+ie 11
+Firefox >= 20
+Safari >= 8
