@@ -24,7 +24,7 @@
     "backbone.localstorage": "^1.1.16",
     "backbone.marionette": "^2.4.3",
     "handlebars": "^4.0.4",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "magnific-popup": "^1.0.0",
     "slick-carousel": "^1.5.8",
     "uikit": "^3.3.1",
